@@ -1,0 +1,5 @@
+aws_access_key = "AKIAAENFP095JFB6BYKA"
+aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+aws_region     = "us-east-1"
+environment    = "production"
+instance_type  = "t3.medium"
